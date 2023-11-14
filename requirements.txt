@@ -1,0 +1,7 @@
+requests
+json
+re
+csv
+BeautifulSoup
+schedule
+time
